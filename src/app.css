@@ -1,0 +1,15 @@
+header {
+  color: red;
+  font-size: 48px;
+  font-family: georgia;
+  text-align: center;
+}
+
+main {
+  width: 335px;
+  border: solid black 2px;
+  height: 400px;
+  text-align: center;
+  margin: 10px auto;
+  position: relative;
+}

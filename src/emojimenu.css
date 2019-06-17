@@ -1,0 +1,33 @@
+.menu {
+  width: 335px;
+  text-align: left;
+  height: 200px;
+  overflow-y: scroll;
+  position: absolute;
+  bottom: 0;
+}
+
+.menu-btn {
+  border: none;
+  padding: 10px;
+  font-size: 24px;
+}
+.menu-btn:focus {
+  background-color: lightblue;
+}
+.menu-btn:hover {
+  background-color: darkgray;
+}
+
+.menu-type {
+  border: solid grey 1px;
+  background-color: white;
+
+  position: sticky;
+  top: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}

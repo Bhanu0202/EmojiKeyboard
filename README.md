@@ -1,2 +1,0 @@
-# EmojiKeyboard
-Created with CodeSandbox

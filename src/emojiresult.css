@@ -1,0 +1,10 @@
+.emoji-btn {
+  padding: 10px;
+  margin-left: auto;
+  background-color: white;
+  border: none;
+  font-size: 24px;
+}
+.emoji-btn:hover {
+  background-color: lightcyan;
+}
